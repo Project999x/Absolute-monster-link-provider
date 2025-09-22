@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/42aced60d325f8b1c38b8-4142b15de724c8de88.jpg">
+  <img src="https://files.catbox.moe/5dmb33.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟɪɴᴋs sʜᴀʀᴇ ʙᴏᴛ](https://t.me/linkssharebot)**_
