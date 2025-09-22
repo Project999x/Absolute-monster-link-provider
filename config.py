@@ -40,7 +40,7 @@ ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {ᴀʙꜱᴏʟᴜᴛᴇ ᴍᴏɴꜱᴛ
 CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Shirohige_Animes_Academy'> Animes</a>
 <blockquote expandable>›› 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ: <a href='https://t.me/Dsh_Alliance'>𝐇ᴇɴᴛᴀɪ</a>
 ›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/Shirohige_Hindi_Toonz'>ᴡᴇʙsᴇʀɪᴇs</a>
-›› ᴏᴡɴᴇʀ: <a href='https://t.me/WhiteBeard_sana'>ᴡʜɪᴛᴇ ʙᴇᴀʀᴅ ꜱᴀᴍᴀ</a>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴏᴡɴᴇʀ: <a href='https://t.me/WhiteBeard_sama'>ᴡʜɪᴛᴇ ʙᴇᴀʀᴅ ꜱᴀᴍᴀ</a>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
